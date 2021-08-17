@@ -39,3 +39,4 @@ C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\re
 C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Platzi-AspNet.pdb
 C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Platzi-AspNet.genruntimeconfig.cache
 C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Platzi-AspNet.csproj.CopyComplete
+C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Shared\Simple.cshtml.g.cs

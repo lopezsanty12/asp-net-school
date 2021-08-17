@@ -9,9 +9,11 @@ namespace Platzi_AspNet.Controllers
         public IActionResult Index()
         {
             var escuela = new Escuela();
-            escuela.AnioFundacion=2005;
-            escuela.EscuelaId= Guid.NewGuid().ToString();
-            escuela.Nombre = "Platzi School";
+            escuela.AñoDeCreación=2005;
+            escuela.UniqueId= Guid.NewGuid().ToString();
+            escuela.Nombre = "School Cacao";
+
+            ViewBag.CosaDinamica = System.DateTime.Today;
             return View(escuela);
         }
     }
