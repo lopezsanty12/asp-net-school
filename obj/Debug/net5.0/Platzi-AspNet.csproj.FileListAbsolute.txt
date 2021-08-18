@@ -41,5 +41,8 @@ C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Pl
 C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Platzi-AspNet.csproj.CopyComplete
 C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Shared\Simple.cshtml.g.cs
 C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Asignatura\Index.cshtml.g.cs
-C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Shared\AsignaturaSimple.cshtml.g.cs
 C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Asignatura\MultiAsignatura.cshtml.g.cs
+C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Shared\ObjetoEscuelaSimple.cshtml.g.cs
+C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Alumno\Index.cshtml.g.cs
+C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Alumno\MultiAlumno.cshtml.g.cs
+C:\Users\SantyLopez\Documents\Project\Net.Core\Platzi-AspNet\obj\Debug\net5.0\Razor\Views\Shared\ListaObjetoEscuela.cshtml.g.cs

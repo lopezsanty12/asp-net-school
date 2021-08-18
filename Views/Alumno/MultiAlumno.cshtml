@@ -1,0 +1,13 @@
+﻿@model List<Alumno>
+
+@{
+    ViewData["Title"] = "Course student";
+}
+
+<h1 style="text-align: center;">@ViewData["Title"]</h1>
+
+<strong>Desde la vista parcial</strong>
+<br>
+<partial name="ListaObjetoEscuela" />
+<br>
+<p><i>@ViewBag.Fecha</i></p>
