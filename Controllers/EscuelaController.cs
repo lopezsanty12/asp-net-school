@@ -12,6 +12,10 @@ namespace Platzi_AspNet.Controllers
             escuela.AñoDeCreación=2005;
             escuela.UniqueId= Guid.NewGuid().ToString();
             escuela.Nombre = "School Cacao";
+            escuela.Dirección = "Zona 4, 43-2 avenida";
+            escuela.Ciudad = "Guatemala";
+            escuela.Pais = "Guatemala";
+            escuela.TipoEscuela = TiposEscuela.Secundaria;
 
             ViewBag.CosaDinamica = System.DateTime.Today;
             return View(escuela);
